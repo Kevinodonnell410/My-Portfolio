@@ -12,7 +12,9 @@ h1, h2, h3, h4, h5, h6{
 body{
     background-color:#A2A392;
 }
-
+header{
+    background-color:#D5D0CD;
+}
 h1{
 	font-size:100px;
 }
