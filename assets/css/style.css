@@ -1,4 +1,4 @@
-*{      background-color:#A2A392;
+*{ 
 	box-sizing: border-box;
 	font-size: 16px;
     font-family: 'EB Garamond', serif;
@@ -8,6 +8,9 @@
 }
 h1, h2, h3, h4, h5, h6{
 	font-family: 'EB Garamond', serif;
+}
+body{
+    background-color:#A2A392;
 }
 
 h1{
