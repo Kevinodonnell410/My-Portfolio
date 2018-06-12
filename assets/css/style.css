@@ -48,6 +48,7 @@ header{
 }
 nav ul {
 	list-style: none;
+	text-align: center;
 }
 h6{
 	font-size:18px;
